@@ -1,4 +1,4 @@
-package com.example.bandiboodi_app
+package bandiboodi.app
 
 import io.flutter.embedding.android.FlutterActivity
 
